@@ -10,5 +10,5 @@
 
 - 📫 email: artsoucor12@gmail.com
 - 😄 pronomes: ele/dele
-- ⚡ Fun fact: froggers
+- ⚡ comédia: froggers
 
