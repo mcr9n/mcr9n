@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcr9n&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 🌱 Estudando Assembly RISCV, reactJS
+- 🌱 Estudando PSQL e desenvolvimento web.
 
 - 📫 email: artsoucor12@gmail.com
 - 😄 pronomes: ele/dele
