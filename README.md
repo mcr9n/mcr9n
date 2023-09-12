@@ -7,5 +7,4 @@
 
 - 🌱 Universitário 
 
-- 📫 email: artsoucor12@gmail.com
-- 😄 pronomes: ele/dele
+
